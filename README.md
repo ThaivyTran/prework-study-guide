@@ -12,6 +12,8 @@ N/A
 
 This section contains HTML, CSS, Javascript and Git. To use open DevTools console and run Javascript.
 
+To view you can click here → <a href="https://thaivytran.github.io/prework-study-guide/" target="_blank">Webpage</a>
+
 ## Credits
 
 N/A
